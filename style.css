@@ -647,9 +647,13 @@ button:hover {
 }
 
 /* footer */
+footer {
+    padding: 17px 0px;
+}
 
 footer p {
     text-align: center;
+    margin: 0;
 }
 
 /* MEDIA QUERIES */
